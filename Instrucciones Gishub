@@ -1,0 +1,7 @@
+git clone <LINK>
+edito el file
+git commit -a
+escribo el comment
+ESC
+:wq ENTER
+git push
